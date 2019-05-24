@@ -1,0 +1,14 @@
+.icon-admit_nom2x{
+      background-image: url('sprite2x.png');
+      background-position: 0px 0px;
+      background-size: 52px 26px;
+      width: 26px ;
+      height: 26px;
+    }
+.icon-admit_organ2x{
+      background-image: url('sprite2x.png');
+      background-position: -26px 0px;
+      background-size: 52px 26px;
+      width: 26px ;
+      height: 26px;
+    }

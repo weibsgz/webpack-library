@@ -1,0 +1,12 @@
+.icon-admit_nom1x{
+      background-image: url('sprite.png') \9;
+      background-position: 0px 0px 9;     
+      width: 26px \9;
+      height: 26px \9;
+    }
+.icon-admit_organ1x{
+      background-image: url('sprite.png') \9;
+      background-position: -26px 0px 9;     
+      width: 26px \9;
+      height: 26px \9;
+    }
